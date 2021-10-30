@@ -693,9 +693,9 @@ footer span a:hover{
 }
 
 .social{
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: crimson;
-    padding-right: 4px;
+    padding-right: 10px;
 }
 
 .social-link:hover{
